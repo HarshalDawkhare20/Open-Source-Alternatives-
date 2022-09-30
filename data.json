@@ -170,6 +170,20 @@
 
     },
 
+{
+        "id": 20,
+        "applicationName": "Upstox",
+        "use": "Browsing and Application",
+        "alternative":"Robinhood",
+        "description":"It is open source platform to make trading easy.",
+        "applicationName": "Robinhood",
+        "use": "application",
+        "alternative":"Robinhood",
+        "description":"It analyse the previous data and suggest you stocks accordingly.",
+        "link":"https://brave.com"
+
+    }
+
 
 
 ]
