@@ -49,7 +49,7 @@
         "use": "To make UI/UX Designs",
         "alternative":"Figma",
         "description":"Figma is a collaborative web application for interface design, with additional offline features enabled by desktop applications for macOS and Windows.",
-        "link":"\https://www.figma.com/"
+        "link":"https://www.figma.com/"
     },   
     {
         "id": 7,
@@ -180,7 +180,7 @@
         "use": "application",
         "alternative":"Robinhood",
         "description":"It analyse the previous data and suggest you stocks accordingly.",
-        "link":"https://brave.com"
+        "link":"https://play.google.com/store/apps/details?id=com.robinhood.android&hl=en_IN&gl=US"
 
     }
 
